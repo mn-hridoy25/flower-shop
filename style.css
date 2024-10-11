@@ -23,7 +23,7 @@ body {
   margin: 0 auto;
 }
 
-.banner-text-container {
+.banner-text {
   width: 50%;
   height: 650px;
   display: flex;
@@ -32,12 +32,12 @@ body {
   align-items: flex-start;
 }
 
-.banner-text-container h1 {
+.banner-text h1 {
   margin-bottom: 20px;
   font-size: 62px;
 }
 
-.banner-text-container p {
+.banner-text p {
   color: rgba(39, 39, 39, 0.6);
   font-family: Lato;
   font-size: 18px;
@@ -46,7 +46,7 @@ body {
   text-align: left;
 }
 
-.banner-text-container div button {
+.banner-text div button {
   width: 150px;
   height: 45px;
   background-color: rgb(229, 84, 115);
@@ -56,14 +56,14 @@ body {
   color: white;
 }
 
-.banner-text-container div {
+.banner-text div {
   display: flex;
   justify-content: flex-start !important;
   align-items: flex-start !important;
   width: 150px;
 }
 
-.banner-image-container {
+.banner-image {
   height: 650px;
   display: flex;
   width: 50%;
@@ -71,13 +71,13 @@ body {
   align-items: center;
 }
 
-.banner-image-container img {
+.banner-image img {
   width: 80%;
   height: 650px;
   margin-left: 120px;
 }
 
-.featured-image-container {
+.featured-image {
   max-width: 1260px;
   height: 650px;
   margin: 0 auto;
